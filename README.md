@@ -1,7 +1,7 @@
 # W1ll13
 Code and more created by Sonia...
 
-## The Dragon Prince
+## Izzzz
 
 The tool she was using is processing:
 https://processing.org/
